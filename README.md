@@ -58,7 +58,7 @@ python app.py
 📂 Project Structure
 Plaintext
 
-.
+```bash
 ├── app.py            # Main application script
 ├── Timer_App_SS.png  # Application screenshot
 ├── alarm.mp3         # Alert sound file
@@ -66,8 +66,8 @@ Plaintext
 ├── face.png          # Icon for 5-min preset
 ├── eggs.png          # Icon for 10-min preset
 └── README.md         # Project documentation
-
-🤝 Contributing
+``` 
+🤝 **Contributing**
 
 This is an open-source project. Feel free to fork the repository, open issues, or submit pull requests to improve the UI or add new features!
 
