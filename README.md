@@ -33,11 +33,11 @@ A sleek, dark-themed digital timer application built with Python and Tkinter. Fe
    
 2. **Setup a virtual Environment**
 
-# Create and activate venv
+ **Create and activate venv**
 python3 -m venv .venv
 source .venv/bin/activate
 
-# Install dependencies
+ **Install dependencies**
 pip install just_playback
 
 3. **Running the Application**
@@ -55,8 +55,7 @@ python app.py
 
     just_playback - Specialized library for low-latency audio.
 
-📂 Project Structure
-Plaintext
+📂 **Project Structure**
 
 ```bash
 ├── app.py            # Main application script
