@@ -17,7 +17,7 @@ A sleek, dark-themed digital timer application built with Python and Tkinter. Fe
 ## 📸 Preview
 
 > *Tip: You can add a screenshot of your app here by placing an image file in your repo and linking it below.*
-> Timer_App_SS.png
+> ![App Screenshot](Timer_App_SS.png)
 
 ## 🚀 Getting Started
 
